@@ -1,0 +1,5 @@
+http://bitoftech.net/2014/04/16/asp-net-web-api-odata-crud-endpoint/
+https://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
+
+project research
+https://github.com/tjoudeh/eLearning.WebAPI
